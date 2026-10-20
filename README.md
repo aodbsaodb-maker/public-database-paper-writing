@@ -52,13 +52,11 @@
 
 ## 隐私与复用
 
-不要向公共目录或问题反馈中提交参与者数据、未发表稿件、项目标识、账户凭据和私人聊天。反馈可提供版本、当前关卡和最小合成复现。
+不要向公共目录或问题反馈中提交数据、未发表稿件、项目标识、账户凭据和私人聊天。反馈可提供版本、当前关卡和最小合成复现。
 
 本项目采用[MIT许可证](LICENSE)。Copyright (c) 2026 稚晨。复用时保留版权及许可声明；依赖或另行获取的第三方材料按其自身许可处理。
 
 ## 设计参考
-
-以下用于说明设计背景，不是运行依赖，也不自动引入其规则：
 
 - [doc-coauthoring](https://github.com/anthropics/skills/blob/main/skills/doc-coauthoring/SKILL.md)：上下文收集与读者测试。
 - [academic-writing-skills](https://github.com/WenyuChiou/academic-writing-skills/blob/main/skills/academic-writing-skills/SKILL.md)：写作契约与改动影响。
